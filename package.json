@@ -1,0 +1,22 @@
+{
+  "name": "anidb_titles_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "titlesDATConvert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adminy/anidb_titles_parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adminy/anidb_titles_parser/issues"
+  },
+  "homepage": "https://github.com/adminy/anidb_titles_parser#readme",
+  "dependencies": {
+    "xml-js": "^1.6.9"
+  }
+}
